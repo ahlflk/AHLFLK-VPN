@@ -1,0 +1,21 @@
+{
+    "status": "success",
+    "data": [
+        {
+            "serverData": [
+                {
+                    "_id": 1,
+                    "vlessServers": "GGS8wgvB1IRQON2v269GTfnAwYQAwQ/uTeOYvJDEhEgaIrTvcvsyvpb2FVEGu/7ckFdFz5+DY7IKgYnojj6ziV7IWDWaiVYxdF81RrJkaIH/RwvJGY34NAB9YQ9rR1s7PrhugtiDoj/zoeKVRR3U/A=="
+                },
+                {
+                    "_id": 2,
+                    "vlessServers": "GGS8wgvB1IRQON2v269GTfnAwYQAwQ/uTeOYvJDEhEhaAJqFfEG+8l2j8Ojf/EADmAje2fXQhOPhNV3AJX7WbfByohqSn/fIQUS0hO+rM8qjHfMkTqUfjry6viukpu3rqRZWSAoLkzwyCkKGuRhR3TW6LZlAceksCtR5FXyISNU="
+                },
+                {
+                    "_id": 3,
+                    "vlessServers": "GGS8wgvB1IRQON2v269GTfnAwYQAwQ/uTeOYvJDEhEhaAJqFfEG+8l2j8Ojf/EADmAje2fXQhOPhNV3AJX7WbaPXL448TgbgV9WogE+ALX5Es3//UO7NCFw9sqLtHmbW+p2GceRH0J2GmEk3AMfZqd7IUdH/UTJIMbkmCIP3/I4="
+                }
+            ]
+        }
+    ]
+}
